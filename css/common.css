@@ -54,4 +54,28 @@ table {
 }
 img {
 	vertical-align: middle;
+	width: 100%;
 }
+
+.header {
+	background-color: #0ba1eb;
+	border-color: 2px solid #ccc;
+	padding: 5px 10px 5px 10px;
+}
+.header-logo img {
+	width: 100%;
+}
+
+.top-kv {
+	height: 112px;
+	overflow: hidden;
+	position: relative;
+}
+
+.top-kv img {
+	width: 100%;
+}
+
+.top-kv-catch
+
+
